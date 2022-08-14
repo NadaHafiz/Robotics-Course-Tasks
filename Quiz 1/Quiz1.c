@@ -16,4 +16,5 @@ case 1:
 printf("The Maximum Number Is %d",number1);
 break;
 }
+return 0;
 }
