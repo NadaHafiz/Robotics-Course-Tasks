@@ -4,7 +4,7 @@ int main(){
 int number1,number2;
 
 printf("Please Enter The Two Number You Want To Find The Maximum");
-scanf("%d%d",&number1,number2);
+scanf("%d%d",&number1,&number2);
 
 switch(number1>number2)
 {
