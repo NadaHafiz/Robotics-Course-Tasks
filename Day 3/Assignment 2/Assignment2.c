@@ -23,15 +23,15 @@ scanf("%d",&pass);
 int x=0;
 while (x<2)
 {	
-	if (pass==1423)
-	{
-		printf("Correct password");
-		break;
-    }
-    else
-    {
-       printf("Wrong password, try again : "); 
-	}
+if (pass==1423)
+{
+	printf("Correct password");
+	break;
+}
+else
+{
+    printf("Wrong password, try again : "); 
+}
 	scanf("%d",&pass);	
 	x++;
 }
