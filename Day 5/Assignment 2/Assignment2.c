@@ -31,14 +31,14 @@ switch (ch)
 int class_1()
 {
 int i , arr[10];
-int max=0;
-int min=100;
 int countpass=0, countfail=0 , sum=0, average;
 for(i=0 ;i<=9;i++)
 {
     printf("Please Enter The Grade For CLASS 1 Students #%d : Between 0-100 \n",(i+1));
     scanf("%d",&arr[i]);
 }
+int max=arr[0];
+int min=arr[0];
 
 for(i=0 ;i<=9;i++)
 {
