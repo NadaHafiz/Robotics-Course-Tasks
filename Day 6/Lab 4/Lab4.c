@@ -5,7 +5,7 @@ void main()
     int sum=0;
     for (int i=0 ; i<=2 ; i++)
     {
-        sum+=*(arr+i); /* arr[i]=*(arr+i) */
+        sum+=*(arr+i); /* arr[i]=*(arr+i)=value */
     }
     printf("The Sum Of Array Is : %d",sum);
 }
