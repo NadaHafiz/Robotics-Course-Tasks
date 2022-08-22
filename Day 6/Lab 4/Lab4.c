@@ -8,4 +8,5 @@ void main()
         sum+=*(arr+i); /* arr[i]=*(arr+i)=value */
     }
     printf("The Sum Of Array Is : %d",sum);
+	/* arr+i=pointer */
 }

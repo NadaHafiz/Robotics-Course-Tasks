@@ -21,4 +21,6 @@ void main()
    printf("x value %d pointer value %d and address %d \n",x,*p,p);
    printf("y value %d pointer value %d and address %d \n",y,*q,q);
    printf("z value %d pointer value %d and address %d \n",z,*r,r);
+   
+   /* value of pointers will change with change in address */
 }
