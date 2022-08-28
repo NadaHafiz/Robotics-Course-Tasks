@@ -292,9 +292,9 @@ void cancel_reservation()
                 {
 					if(0==array_res[i])
 					{
-						printf(" There is No Reservation Yet\n\n");
-						id_check=1;
-						break;
+					printf(" There is No Reservation Yet\n\n");
+					id_check=1;
+					break;
 					}
 					else
 					{
