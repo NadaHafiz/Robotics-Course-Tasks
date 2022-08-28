@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661718536 source:c:\users\hp\onedrive\documents\robotics course\tasks\project\medical mangment system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES_FUNCTION.h"
+
+1661716551 c:\users\hp\onedrive\documents\robotics course\tasks\project\medical mangment system\std_types_function.h
+
